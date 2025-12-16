@@ -64,7 +64,9 @@ python excel_converter.py
 - The JSON output uses the 'records' orientation, which creates an array of objects where each object represents a row in the Excel file
 - The AI analysis provides recommendations for the best visualization types based on your data characteristics
 - Sample visualizations are generated to help you understand your data patterns
+- 
 ![Test 1](https://github.com/user-attachments/assets/ad9b843c-69a1-4ba8-bb87-19dc2e4cdb65)
+
 
 ## AI Analysis Features
 
@@ -72,7 +74,9 @@ python excel_converter.py
 - **Visualization Recommendations**: Suggests appropriate chart types based on data characteristics
 - **Sample Visualizations**: Generates example charts to demonstrate data patterns
 - **Interactive Dashboard Guidance**: Provides insights on which metrics would work best for interactive dashboards
+
 ![Test 2](https://github.com/user-attachments/assets/b2adb2f7-4e63-456f-85d3-0f3604374dc7)
+
 
 ## OUTPUT
 
